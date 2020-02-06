@@ -1,4 +1,4 @@
-# Codepath-Mobile-App-Design-project1
+# Codepath-Mobile-App-Design-myprework
 ## DemoApp 
 
 ### App Description
