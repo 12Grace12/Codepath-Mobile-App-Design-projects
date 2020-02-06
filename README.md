@@ -6,7 +6,7 @@ This very simple but amazing app allows users to press a buttong and change the 
 
 ### App Walk-though
 `
-<img src="https://i.imgur.com/pxj3Paw.gifv" width=200><br>
+<img src="https://im6.ezgif.com/tmp/ezgif-6-0bedf72ef57c.webp" width=200><br>
 
 
 ### Required User Stories
